@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class Program {
 
-	public static int globalValue = 3;
+	public static int globalValue = 10;// sem transparencia refencial
 	
 	public static void main (String[] args) {
 		
